@@ -1,0 +1,34 @@
+[
+    {
+        "teacher":"Ruslan",
+        "exam_name":"BAP",
+        "exam_date":"2022-08-21",
+        "room":"213b"
+    },
+    {
+        "teacher":"Arthur",
+        "exam_name":"IWT",
+        "exam_date":"2022-08-21",
+        "room":"001"
+    },
+    {
+        "teacher":"Dim",
+        "exam_name":"Intrengin",
+        "exam_date":"2022-08-21",   
+        "room":"213b"     
+    },
+    {
+        "teacher":"Gulnura",
+        "exam_name":"mainEnglish",
+        "exam_date":"2022-08-21",
+        "room":"001"
+        
+    },
+    {
+        "teacher":"Cholpon",
+        "exam_name":"mainEnglish",
+        "exam_date":"2022-08-21",
+        "room":"001"
+    
+    }
+]
